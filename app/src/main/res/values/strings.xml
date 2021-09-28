@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recyclerview_with_animation_kotlin</string>
+    <string name="app_anim">Animatons</string>
+    <string name="loding">Loding</string>
+</resources>
